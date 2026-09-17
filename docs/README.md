@@ -25,6 +25,9 @@ After sprints, releases, milestones, or incidents, teams run retrospectives to c
 ### Core roles/personas
 OctoAcme’s core roles include Project Managers, Product Managers, Developers, QA/Testing, and Stakeholders, each with defined responsibilities for planning, delivery, quality, and alignment.
 
+### Key artifacts
+Teams maintain a lightweight set of shared artifacts to keep delivery aligned: a project charter or one-pager, roadmap and release plan, prioritized backlog, acceptance criteria and Definition of Done, risk register, release notes, and retrospective action items.
+
 ### Communication cadence
 Typical operating rhythm includes daily standups, weekly PM/PdM and delivery syncs, sprint/milestone demos, monthly stakeholder updates, and ad-hoc escalations for high-impact issues.
 
