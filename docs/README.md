@@ -32,6 +32,8 @@ Typical operating rhythm includes daily standups, weekly PM/PdM and delivery syn
 Quality is built into execution through unit and integration testing, smoke tests for critical flows, CI validation (including linting and security scanning), manual QA where needed, and reviewable pull requests with approvals.
 
 ## Document Index
+Communication cadence and quality/execution practices are documented across the lifecycle guides below, especially Execution & Tracking, Risk Management & Communication, and Release & Deployment.
+
 - [README (this file)](README.md)
 - [OctoAcme Project Management Overview](octoacme-project-management-overview.md)
 - [OctoAcme Project Initiation Guide](octoacme-project-initiation.md)
