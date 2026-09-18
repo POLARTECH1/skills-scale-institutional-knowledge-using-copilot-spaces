@@ -28,6 +28,53 @@ Developers design, build, test, and deliver software components. They collaborat
 
 ---
 
+## QA/Testing
+
+### Role Summary
+QA/Testing validates that delivered work meets acceptance criteria, quality standards, and release readiness expectations. They partner with developers and product/project leads to reduce risk and improve confidence before release.
+
+### Responsibilities
+- Define and execute test plans based on scope and risk
+- Validate acceptance criteria and critical user flows
+- Report defects clearly and support triage/prioritization
+- Verify bug fixes and regression coverage
+- Contribute to release readiness checks and sign-off input
+
+### Goals
+- Prevent defects from reaching production
+- Improve product reliability and user experience
+- Provide fast, actionable quality feedback during delivery
+
+### Typical Communication
+- Daily collaboration with developers during execution
+- Defect triage and validation updates in project boards/PRs
+- Release readiness and quality status updates before deployment
+
+---
+
+## Stakeholders
+
+### Role Summary
+Stakeholders represent customer, business, compliance, or operational interests. They provide input on priorities, constraints, and outcomes, and help approve key project decisions and releases when required.
+
+### Responsibilities
+- Provide business context, constraints, and success criteria
+- Review roadmap priorities, milestones, and trade-offs
+- Participate in key demos, decision points, and approvals
+- Surface organizational risks, dependencies, or policy concerns
+
+### Goals
+- Ensure delivery aligns with customer and business outcomes
+- Maintain visibility into project status, risks, and decisions
+- Support timely approvals to keep delivery on track
+
+### Typical Communication
+- Scheduled stakeholder updates and milestone demos
+- Decision and approval discussions with PM/PdM leads
+- Escalation channels for high-impact risks or timeline changes
+
+---
+
 ## Product Managers
 
 ### Role Summary
@@ -78,4 +125,3 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
